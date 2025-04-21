@@ -38,9 +38,9 @@ The script will:
    ```bash
    BASE_PATH=~/projects/my-repo/modules
    BRANCH="main"
-3. Edit the script to set your base path:
+3. Make the script executable:
     ```bash
    chmod +x git_folder_push.sh
-3. Run it:
+4. Run it:
     ```bash
     ./git_folder_push.sh
