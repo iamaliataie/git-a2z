@@ -34,12 +34,13 @@ The script will:
 ## 🛠️ Setup
 
 1. Clone this repo or copy the script
-2. Edit the script to set your base path:
+2. Edit the script to set your base path and branch:
    ```bash
    BASE_PATH=~/projects/my-repo/modules
+   BRANCH="main"
 3. Edit the script to set your base path:
     ```bash
-   chmod +x git_a2z.sh
+   chmod +x git_folder_push.sh
 3. Run it:
     ```bash
-    ./git_a2z.sh
+    ./git_folder_push.sh
